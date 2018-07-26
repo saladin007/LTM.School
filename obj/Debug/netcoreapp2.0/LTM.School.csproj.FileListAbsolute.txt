@@ -1,0 +1,11 @@
+D:\DotNetCore\Learn\LTM.School\LTM.School\bin\Debug\netcoreapp2.0\LTM.School.deps.json
+D:\DotNetCore\Learn\LTM.School\LTM.School\bin\Debug\netcoreapp2.0\LTM.School.runtimeconfig.json
+D:\DotNetCore\Learn\LTM.School\LTM.School\bin\Debug\netcoreapp2.0\LTM.School.runtimeconfig.dev.json
+D:\DotNetCore\Learn\LTM.School\LTM.School\bin\Debug\netcoreapp2.0\LTM.School.dll
+D:\DotNetCore\Learn\LTM.School\LTM.School\bin\Debug\netcoreapp2.0\LTM.School.pdb
+D:\DotNetCore\Learn\LTM.School\LTM.School\obj\Debug\netcoreapp2.0\LTM.School.csprojAssemblyReference.cache
+D:\DotNetCore\Learn\LTM.School\LTM.School\obj\Debug\netcoreapp2.0\LTM.School.csproj.CoreCompileInputs.cache
+D:\DotNetCore\Learn\LTM.School\LTM.School\obj\Debug\netcoreapp2.0\LTM.School.AssemblyInfoInputs.cache
+D:\DotNetCore\Learn\LTM.School\LTM.School\obj\Debug\netcoreapp2.0\LTM.School.AssemblyInfo.cs
+D:\DotNetCore\Learn\LTM.School\LTM.School\obj\Debug\netcoreapp2.0\LTM.School.dll
+D:\DotNetCore\Learn\LTM.School\LTM.School\obj\Debug\netcoreapp2.0\LTM.School.pdb
